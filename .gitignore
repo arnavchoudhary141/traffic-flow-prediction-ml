@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+outputs/*.joblib
+outputs/*.png
+outputs/*.json
+outputs/*.txt
